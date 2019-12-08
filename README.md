@@ -5,6 +5,7 @@ First some sections contains resources or hacks for preparing algorithmic coding
 
 ## Competetive coding
 * [Algorithms course](http://www3.cs.stonybrook.edu/~skiena/373/)
+* [Important questions](https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3)
 
 ## C++ STL functions
 
