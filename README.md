@@ -83,3 +83,7 @@ Many sources are there, top 3 are very important. Rest are not that popular amon
 
 * [Data science](https://www.analyticsvidhya.com/blog/tag/multiple-choice-question-machine-learning/)
 * [Probability](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
+
+## System design
+
+* [System design](https://github.com/donnemartin/system-design-primer)
