@@ -3,9 +3,11 @@ Some useful resources for job preparation (Tech role and Quant)
 
 First some sections contains resources or hacks for preparing algorithmic coding part of hiring process. Next section include probability and quant resources needed for Quant/Strategist roles. Lastly some sections on data science required for data scientist role 
 
+
 ## Competetive coding
 * [Algorithms course](http://www3.cs.stonybrook.edu/~skiena/373/)
 * [Important questions](https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3)
+
 
 ## C++ STL functions
 
@@ -25,6 +27,7 @@ Some STL functions can help to write the solution of a problem in a single line.
 12) __gcd()
 13) isdigit()
 
+
 ## Tutorials on board topics
 
 * [All in one](https://cp-algorithms.com/)
@@ -40,6 +43,7 @@ Some STL functions can help to write the solution of a problem in a single line.
 * [Set union](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
 * [Code for many algorithms](https://github.com/mission-peace/interview)
 
+
 ## Geeksforgeeks (Everything in one place)
 
 Even though there is no concept of company specific questions that will be asked. Everything is universal. Company wise sorted data might give a prespective how a firm can focus more on some topics so that can be useful
@@ -50,6 +54,7 @@ Even though there is no concept of company specific questions that will be asked
 * [Algirithm fundamentals](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 * [Most asked common questions](https://www.geeksforgeeks.org/interview-preparation-for-software-developer/)
 * [All in one](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/)
+
 
 ## Probability theory
 
@@ -84,6 +89,13 @@ Many sources are there, top 3 are very important. Rest are not that popular amon
 * [Data science](https://www.analyticsvidhya.com/blog/tag/multiple-choice-question-machine-learning/)
 * [Probability](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
 
+
 ## System design
 
 * [System design](https://github.com/donnemartin/system-design-primer)
+
+
+## SPOJ
+
+* [Problem finder](http://problemclassifier.appspot.com/)
+* [Solution finder](http://spojtoolkit.com/)
