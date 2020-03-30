@@ -7,6 +7,7 @@ First some sections contains resources or hacks for preparing algorithmic coding
 ## Competetive coding
 * [Algorithms course](http://www3.cs.stonybrook.edu/~skiena/373/)
 * [Important questions](https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3)
+* [Curated questions](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
 
 
 ## C++ STL functions
@@ -99,3 +100,7 @@ Many sources are there, top 3 are very important. Rest are not that popular amon
 
 * [Problem finder](http://problemclassifier.appspot.com/)
 * [Solution finder](http://spojtoolkit.com/)
+
+## Overall prep
+
+* [Full prep](https://yangshun.github.io/tech-interview-handbook/coding-signals)
