@@ -37,12 +37,14 @@ Some STL functions can help to write the solution of a problem in a single line.
 * [Substring problems](https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems)
 * [Hackerearth tutorials](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/)
 * [Hackerearth notes](https://www.hackerearth.com/practice/notes/trending/)
-* [MO's algirithm](https://www.hackerearth.com/practice/notes/mos-algorithm/)
+* [MO's algorithm](https://www.hackerearth.com/practice/notes/mos-algorithm/)
+* [MO's algorithm](https://blog.anudeep2011.com/mos-algorithm/)
 * [Sparse table](https://www.hackerearth.com/practice/notes/sparse-table/)
 * [Bit manipulation](https://www.hackerearth.com/practice/notes/bit-manipulation/)
 * [XOR usage](https://www.hackerrank.com/challenges/xor-key/topics)
 * [Set union](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
 * [Code for many algorithms](https://github.com/mission-peace/interview)
+* [Sqrt Decomposition](https://cp-algorithms.com/data_structures/sqrt_decomposition.html#toc-tgt-7)
 
 
 ## Geeksforgeeks (Everything in one place)
