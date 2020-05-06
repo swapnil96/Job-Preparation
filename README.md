@@ -45,7 +45,7 @@ Some STL functions can help to write the solution of a problem in a single line.
 * [Set union](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
 * [Code for many algorithms](https://github.com/mission-peace/interview)
 * [Sqrt Decomposition](https://cp-algorithms.com/data_structures/sqrt_decomposition.html#toc-tgt-7)
-
+* [Graphs and BIT masking](https://codeforces.com/blog/entry/337)
 
 ## Geeksforgeeks (Everything in one place)
 
