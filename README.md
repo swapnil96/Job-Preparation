@@ -106,3 +106,4 @@ Many sources are there, top 3 are very important. Rest are not that popular amon
 ## Overall prep
 
 * [Full prep](https://yangshun.github.io/tech-interview-handbook/coding-signals)
+* [Some links together](https://onedrive.live.com/view.aspx?resid=408513754672F185!2007&ithint=file%2cdocx&authkey=!ADYlYgbrO_fCXb4)
