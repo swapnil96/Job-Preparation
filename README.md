@@ -71,7 +71,9 @@ Even though there is no concept of company specific questions that will be asked
 Many sources are there, top 3 are very important. Rest are not that popular among students. 
 
 * [Gurmeet (Important)](https://gurmeet.net/puzzles/)
-* [CseBlog (Important)](http://www.cseblog.com/?m=1)
+ 
+  ~~* [CseBlog (Important)](http://www.cseblog.com/?m=1)~~
+* [CseBlog (Important)](https://pratikpoddarcse.blogspot.com/)
 * [Riddles](http://puzzles.nigelcoldwell.co.uk/)
 * [Puzzles](https://gmatclub.com/forum/combination-and-probability-references-if-you-have-56486.html)
 * [Puzzles](https://gmatclub.com/forum/advanced-search/?search_id=tag&tag_id=54)
