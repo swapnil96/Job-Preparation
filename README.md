@@ -28,6 +28,10 @@ Some STL functions can help to write the solution of a problem in a single line.
 12) __gcd()
 13) isdigit()
 
+## Important Codeforces blogs
+* [Ordered set](https://codeforces.com/blog/entry/11080)
+
+
 
 ## Tutorials on board topics
 
