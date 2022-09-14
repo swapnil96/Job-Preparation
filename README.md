@@ -27,6 +27,8 @@ Some STL functions can help to write the solution of a problem in a single line.
 11) merge()
 12) __gcd()
 13) isdigit()
+14) isalnum()
+15) isalpha()
 
 ## Important Codeforces blogs
 * [Ordered set](https://codeforces.com/blog/entry/11080)
