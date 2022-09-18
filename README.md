@@ -52,6 +52,7 @@ Some STL functions can help to write the solution of a problem in a single line.
 * [Code for many algorithms](https://github.com/mission-peace/interview)
 * [Sqrt Decomposition](https://cp-algorithms.com/data_structures/sqrt_decomposition.html#toc-tgt-7)
 * [Graphs and BIT masking](https://codeforces.com/blog/entry/337)
+* [Palindromic tree](http://adilet.org/blog/palindromic-tree/)
 
 ## Geeksforgeeks (Everything in one place)
 
