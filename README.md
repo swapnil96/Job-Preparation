@@ -33,7 +33,7 @@ Some STL functions can help to write the solution of a problem in a single line.
 ## Important Codeforces blogs
 * [Ordered set](https://codeforces.com/blog/entry/11080)
 * [Sieve](https://codeforces.com/blog/entry/7262)
-
+* [GCC builtin fns(Can save from bitwise operators)](https://codeforces.com/blog/entry/72437)
 
 ## Tutorials on board topics
 
